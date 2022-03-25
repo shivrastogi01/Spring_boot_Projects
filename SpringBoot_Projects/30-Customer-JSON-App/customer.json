@@ -1,0 +1,17 @@
+{
+	"policy": {
+		"policyName": "Jeevan Anand",
+		"startDate": "20-May-2010",
+		"endDate": "20-May-2030",
+		"premiumAmt": 50000.0
+	},
+	"address": {
+		"city": "Hyd",
+		"state": "TG",
+		"country": "India"
+	},
+	"cid": 101,
+	"cname": "Mahesh",
+	"cemail": "mahesh.k@ashokit.in",
+	"cage": 30
+}
